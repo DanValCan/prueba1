@@ -15,5 +15,14 @@ public class Main {
             edad = 30;
         }
         System.out.println("edad: " + edad);
+
+        int [] numeros = new int[5];
+        numeros[0] = 1;
+        numeros[1] = 2;
+        numeros[2] = 3;
+
+        String [] nombres = new String[5];
+        nombres[0] = "Manuela";
+
     }
 }
